@@ -1,27 +1,5 @@
 [
-  {
-    "FIELD1":"446-Total Area_y-x_572-Total Area",
-    "FIELD2":"596-Total Area_y-x_512-Total Area",
-    "FIELD3":"525-Total Area_y-x_510-Total Area",
-    "FIELD4":"446-Total Area",
-    "FIELD5":"596-Total Area",
-    "FIELD6":"525-Total Area",
-    "FIELD7":"510-Total Area",
-    "FIELD8":"572-Total Area",
-    "FIELD9":"512-Total Area",
-    "FIELD10":"T-test Significant",
-    "FIELD11":"446-?# Unique Peptides",
-    "FIELD12":"596-?# Unique Peptides",
-    "FIELD13":"525-?# Unique Peptides",
-    "FIELD14":"510-?# Unique Peptides",
-    "FIELD15":"572-?# Unique Peptides",
-    "FIELD16":"512-?# Unique Peptides",
-    "FIELD17":"T-test p-value",
-    "FIELD18":"T-test Difference",
-    "FIELD19":"Accession",
-    "FIELD20":"Variation"
-  },
-  {
+{
     "FIELD1":"1.056946",
     "FIELD2":"-0.6542358",
     "FIELD3":"-0.6352463",
